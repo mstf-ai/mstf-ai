@@ -20,3 +20,10 @@ $\color{#f5f}{Web \ Developer}$
     <img src="https://img.shields.io/twitter/follow/Prince759461341?logo=twitter&style=for-the-badge" alt="mostafa-khamis"/>
   </a>
 </p>
+
+---
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Boudy560}/count.svg"/></p>
+<br>
+</div>
