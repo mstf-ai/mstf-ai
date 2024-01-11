@@ -5,15 +5,18 @@
   </h1>
 
 
-  <h3 align="center">
+  $\begin{align}
     I'm a : 
-    $\color{aqua}{Software \ Engineer}$ 
-    & 
-    $\color{#f5f}{Web \ Developer}$.
-  </h3>
+    \color{aqua}{Software \ Engineer}
+    \ &\& \
+    \color{#f5f}{Web \ Developer}.
+  \end{align}$
 
 $\color{#f5f}{Web \ Developer}$
->>> ---
+>>> --- 
+>> 
+
+
 
 <p>
   <a href="https://twitter.com/Prince759461341" target="blank">
