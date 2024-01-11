@@ -12,6 +12,7 @@
     ${\color{#f5f}Web \ Developer}$.
   </h3>
 
+${\color{#f5f}Web \ Developer}$
 >>> ---
 
 <p>
