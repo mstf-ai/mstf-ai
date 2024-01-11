@@ -9,7 +9,7 @@
     I'm a : 
     ${\color{aqua}Software Engineer}$ 
     & 
-    ${\color{#a5a}Web developer}$.
+    ${\color{#a5a}Web \ Developer}$.
   </h3>
 </font>
 
