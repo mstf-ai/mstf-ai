@@ -6,7 +6,9 @@
 
 
   <h3 align="center">
-    I'm a : <span style='color:green'>Software Engineer</span> & Web developer.
+    I'm a : 
+    ${\color{red}Some \space text \space here}$ 
+    & Web developer.
   </h3>
 </font>
 
