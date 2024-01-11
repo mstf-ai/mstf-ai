@@ -28,8 +28,7 @@ $\color{#f5f}{Web \ Developer}$
     <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
      </a>
-     <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstf-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mostafa-Khamis" width="200px" height="230px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstf-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mostafa-Khamis" height="230px"/>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstf-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Khamis" /> </p>
