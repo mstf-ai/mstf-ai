@@ -1,6 +1,6 @@
 ### Hi everyone 🤝🤗
 
-  <h1 style="text-align: center">
+  <h1 align="center">
     👋, My name is : Mostafa Khamis Shaaban
   </h1>
 
