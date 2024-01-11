@@ -24,9 +24,6 @@ $\color{#f5f}{Web \ Developer}$
 ---
 ## 📊 Github Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mstf-ai&theme=react" alt="GitHub Streak" /></a>
-
-  <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
