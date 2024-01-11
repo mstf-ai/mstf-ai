@@ -7,7 +7,7 @@
 
   <h3 align="center">
     I'm a : 
-    ${\color{aqua}Software \Engineer}$ 
+    ${\color{aqua}Software Engineer}$ 
     & Web developer.
   </h3>
 </font>
