@@ -11,6 +11,11 @@
     & 
     ${\color{#f5f}Web \ Developer}$.
   </h3>
-</font>
 
 >>> ---
+
+<p>
+  <a href="https://twitter.com/abdelrhman_amh" target="blank">
+    <img src="https://img.shields.io/twitter/follow/Prince759461341?logo=twitter&style=for-the-badge" alt="mostafa-khamis"/>
+  </a>
+</p>
