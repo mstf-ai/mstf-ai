@@ -7,12 +7,12 @@
 
   <h3 align="center">
     I'm a : 
-    ${\color{aqua}Software \ Engineer}$ 
+    $\color{aqua}{Software \ Engineer}$ 
     & 
-    ${\color{#f5f}Web \ Developer}$.
+    $\color{#f5f}{Web \ Developer}$.
   </h3>
 
-${\color{#f5f}Web \ Developer}$
+$\color{#f5f}{Web \ Developer}$
 >>> ---
 
 <p>
