@@ -25,8 +25,10 @@ $\color{#f5f}{Web \ Developer}$
 ## 📊 Github Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mstf-ai&theme=tokyonight_duo" alt="Mostafa-Khamis" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mstf-ai" alt="Mostafa-Khamis" />
 </p>
+
+
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
