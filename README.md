@@ -24,6 +24,8 @@ $\color{#f5f}{Web \ Developer}$
 ---
 ## 📊 Github Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mstf-ai&theme=react)](https://git.io/streak-stats)
+
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
