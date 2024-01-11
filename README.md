@@ -4,9 +4,9 @@
     👋, My name is : Mostafa Khamis Shaaban
   </h1>
 
-<font color="aqua">
+
   <h3 align="center">
-    I'm a : Software Engineer & Web developer.
+    I'm a : <span style='color:aqua'>Software Engineer</span> & Web developer.
   </h3>
 </font>
 
