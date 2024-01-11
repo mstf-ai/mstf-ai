@@ -5,16 +5,15 @@
   </h1>
 
 
-  $\begin{align}
+  <h3 align="center">
     I'm a : 
-    \color{aqua}{Software \ Engineer}
-    \ &\& \
-    \color{#f5f}{Web \ Developer}.
-  \end{align}$
+    $\color{aqua}{Software \ Engineer}$ 
+    & 
+    $\color{#f5f}{Web \ Developer}$.
+  </h3>
 
 $\color{#f5f}{Web \ Developer}$
->>> --- 
->> 
+>>> ---
 
 
 
