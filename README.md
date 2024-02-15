@@ -46,7 +46,7 @@ $\color{#f5f}{Web \ Developer}$
      </a>
  </p>
  
-![Anurag's GitHub stats]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical)
 <br/>
 ---
 <div align="center">
