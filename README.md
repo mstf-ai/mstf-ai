@@ -24,27 +24,31 @@ $\color{#f5f}{Web \ Developer}$
 ---
 ## 📊 Github Stats
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical)
 
-<p style="display: flix; ">
+
+<p style="display: flix; Justify-content: center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&theme=radical&count_private=true&locale=en&layout=compact" height="200px"/>
+     <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&theme=radical&count_private=true&locale=en&layout=compact" height="230px"/>
      </a>
      
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstf-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mostafa-Khamis" height="230px"/>
 </p>
 
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstf-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Khamis" /> </p>
+
    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
      </a> -->
----
-  <p align="center">
+     
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical)
+     
+<!--   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&rank_icon=percentile" height="230px"/>
      </a>
- </p>
+ </p> -->
  
 
 
