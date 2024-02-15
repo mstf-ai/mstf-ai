@@ -28,7 +28,6 @@ $\color{#f5f}{Web \ Developer}$
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstf-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mostafa-Khamis" height="230px"/>
 
-<br/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstf-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Khamis" /> </p>
