@@ -34,7 +34,7 @@ $\color{#f5f}{Web \ Developer}$
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstf-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Khamis" /> </p>
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=percentile)
 <br/>
 ---
 <div align="center">
