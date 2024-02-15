@@ -23,14 +23,11 @@ $\color{#f5f}{Web \ Developer}$
 
 ---
 ## 📊 Github Stats
-<p style="center" >
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical" height="230px"/>
-     </a>
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical)
 
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstf-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mostafa-Khamis" height="230px"/>
-   </p>
+
 <br/>
 
 
