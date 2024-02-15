@@ -36,7 +36,7 @@ $\color{#f5f}{Web \ Developer}$
 ---
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=percentile" height="230px"/>
+     <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&rank_icon=percentile" height="230px"/>
      </a>
  </p>
 ![Anurag's GitHub stats]()
