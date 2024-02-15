@@ -26,7 +26,7 @@ $\color{#f5f}{Web \ Developer}$
 
 
 
-<p style="display: flix; Justify-content: center">
+<p style="display: flix; text-align: center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&theme=radical&count_private=true&locale=en&layout=compact" height="230px"/>
      </a>
@@ -41,8 +41,6 @@ $\color{#f5f}{Web \ Developer}$
    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
      </a> -->
-     
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical)
      
 <!--   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
