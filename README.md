@@ -33,6 +33,8 @@ $\color{#f5f}{Web \ Developer}$
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstf-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Khamis" /> </p>
 
+---
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#141321" stroke-opacity="1"/>
 
 ---
 <div align="center">
