@@ -23,14 +23,14 @@ $\color{#f5f}{Web \ Developer}$
 
 ---
 ## 📊 Github Stats
-
-  
-
-    
-
+<p style="center" >
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical" height="230px"/>
+     </a>
+</p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mstf-ai&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mostafa-Khamis" height="230px"/>
 <br/>
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mstf-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Khamis" /> </p>
    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,13 +42,8 @@ $\color{#f5f}{Web \ Developer}$
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&rank_icon=percentile" height="230px"/>
      </a>
  </p>
-
-   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical" height="230px"/>
-     </a>
- </p>
  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical)
 
 <br/>
 ---
