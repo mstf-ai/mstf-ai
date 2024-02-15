@@ -39,6 +39,13 @@ $\color{#f5f}{Web \ Developer}$
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&rank_icon=percentile" height="230px"/>
      </a>
  </p>
+
+   <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true\&theme=radical" height="230px"/>
+     </a>
+ </p>
+ 
 ![Anurag's GitHub stats]()
 <br/>
 ---
