@@ -19,9 +19,7 @@ $\color{#f5f}{Web \ Developer}$
   <a href="https://twitter.com/Prince759461341" target="blank">
     <img src="https://img.shields.io/twitter/follow/Prince759461341?logo=twitter&style=for-the-badge" alt="mostafa-khamis"/>
   </a>
-</p>
-
-<p style="display: inline-block">
+</p> | <p style="display: inline-block">
   <a href="https://leetcode.com/u/mstf-ai/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mstf-ai/" height="30" width="40" style="max-width: 100%;">
   </a>
