@@ -48,7 +48,7 @@ $\color{#f5f}{Web \ Developer}$
 ---
 <p style="display: flix;" align="center">
 <a href="https://leetcode.com/u/mstf-ai/">
-     <img alt="Mostafa's LeetCode Stats" src="https://leetcard.jacoblin.cool/mstf-ai?ext=contest" height="260px"/>
+     <img alt="Mostafa's LeetCode Stats" src="https://leetcard.jacoblin.cool/mstf-ai?ext=contest" height="250px"/>
      </a>
 </p>
    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
