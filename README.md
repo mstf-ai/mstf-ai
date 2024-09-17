@@ -20,7 +20,12 @@ $\color{#f5f}{Web \ Developer}$
     <img src="https://img.shields.io/twitter/follow/Prince759461341?logo=twitter&style=for-the-badge" alt="mostafa-khamis"/>
   </a>
 </p>
-
+ | 
+<p>
+  <a href="https://leetcode.com/u/mstf-ai/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mstf-ai/" height="30" width="40" style="max-width: 100%;">
+  </a>
+</p>
 ---
 ## 📊 Github Stats
 
