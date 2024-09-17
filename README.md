@@ -48,10 +48,9 @@ $\color{#f5f}{Web \ Developer}$
 ---
 <p style="display: flix;" align="center">
 <a href="https://leetcode.com/u/mstf-ai/">
-     <img alt="Mostafa's LeetCode Stats" src="https://leetcard.jacoblin.cool/mstf-ai?ext=contest" height="330px"/>
+     <img alt="Mostafa's LeetCode Stats" src="https://leetcard.jacoblin.cool/mstf-ai?ext=contest" height="300px"/>
      </a>
 </p>
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
      </a> -->
