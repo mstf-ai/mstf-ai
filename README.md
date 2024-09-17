@@ -48,7 +48,7 @@ $\color{#f5f}{Web \ Developer}$
 ---
 <p style="display: flix;" align="center">
 <a href="https://leetcode.com/u/mstf-ai/">
-     <img alt="Mostafa's LeetCode Stats" src="https://leetcode.card.workers.dev/mstf-ai?theme=forest&font=milonga&extension=activity" height="230px" width="300px"/>
+     <img alt="Mostafa's LeetCode Stats" src="https://leetcode.card.workers.dev/mstf-ai?theme=forest&font=milonga&extension=activity&width=500&height=500" height="230px" width="300px"/>
      </a>
 </p>
 ![](https://leetcard.jacoblin.cool/lapor?ext=contest)
