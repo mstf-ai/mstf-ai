@@ -45,7 +45,8 @@ $\color{#f5f}{Web \ Developer}$
   <img src="https://komarev.com/ghpvc/?username=mstf-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Khamis" />
   </a>
 </p>
-
+---
+![https://leetcode.com/u/mstf-ai/]([https://leetcard.jacoblin.cool/lapor?ext=contest](https://leetcode.com/u/mstf-ai/))
    <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mstf-ai&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
      </a> -->
