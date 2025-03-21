@@ -18,10 +18,10 @@ $\color{#f5f}{Web \ Developer}$
 <p style="display: inline-block">
   <a href="https://twitter.com/Prince759461341" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  
-width="20px" alt="mostafa-khamis"/>
+width="30" alt="mostafa-khamis"/>
   </a>
 </p>  <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-khamis-ba7a581bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-khamis-ba7a581bb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostafa-khamis-ba7a581bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostafa-khamis-ba7a581bb" height="20" width="30" /></a>
 </p>  <p style="display: inline-block">
   <a href="https://leetcode.com/u/mstf-ai/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mstf-ai/" height="30" width="40" style="max-width: 100%;">
