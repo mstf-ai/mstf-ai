@@ -17,7 +17,8 @@ $\color{#f5f}{Web \ Developer}$
 
 <p style="display: inline-block">
   <a href="https://twitter.com/Prince759461341" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafa-khamis"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  
+width="20px" alt="mostafa-khamis"/>
   </a>
 </p>  <p style="display: inline-block">
   <a href="https://leetcode.com/u/mstf-ai/" target="blank">
