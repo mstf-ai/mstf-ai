@@ -6,11 +6,10 @@
 
 
   <h3 align="center">
-    I'm a : 
-    <h4 style="display:inline-block;color:aqua">Software Engineer</h4>
-    & 
-    <h4 style="display:inline-block;color:purple"> Web Developer</h4>
+    I'm a : Software Engineer  &  Web Developer
   </h3>
+
+  
 >>> ---
 
 <p style="display: inline-block">
