@@ -9,10 +9,10 @@
     I'm a : 
     $\color{aqua}{Software \ Engineer}$ 
     & 
-    $\color{#ff55ff}{Web \ Developer}$.
+    $\color{purle}{Web \ Developer}$.
   </h3>
 
-$\color{#ff55ff}{Web \ Developer}$
+$\color{purple}{Web \ Developer}$
 >>> ---
 
 <p style="display: inline-block">
