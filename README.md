@@ -7,9 +7,9 @@
 
   <h3 align="center">
     I'm a : 
-    <h3style="color:aqua">Software Engineer</h3>
+    <h3 style="color:aqua">Software Engineer</h3>
     & 
-    $\color{purple}{Web \ Developer}$.
+    <h3 style="color:purple"> Web Developer</h3>
   </h3>
 
 $\color{purple}{Web \ Developer}$
