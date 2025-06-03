@@ -11,8 +11,6 @@
     & 
     <h4 style="display:inline-block;color:purple"> Web Developer</h4>
   </h3>
-
-$\color{purple}{Web \ Developer}$
 >>> ---
 
 <p style="display: inline-block">
