@@ -13,7 +13,7 @@
 >>> ---
 
 <p style="display: inline-block">
-  <a href="https://twitter.com/Prince759461341" target="blank">
+  <a href="https://x.com/AlprinsMustafa" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  
 width="30" alt="mostafa-khamis"/>
   </a>
