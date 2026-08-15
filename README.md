@@ -18,7 +18,7 @@
 
 ### If you want to see more, you can visit my dynamic portfolio from here
 
-[![Open My Portfolio](https://shields.io)](https://github.io)
+[![Open My Portfolio](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github.svg)](https://mstf-ai/github.io)
 
 </div>
 
