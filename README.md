@@ -14,25 +14,14 @@
 
 ## 📊 my Portfolio.
 
-<br />
-
-<!-- شريط معرض الأعمال الأنيق والمتوافق مع حماية GitHub -->
 <div align="center">
-  <table border="0" cellpadding="20" cellspacing="0" style="border: 1px solid #00d2ff; border-radius: 50px; background-color: #1e293b;">
-    <tr>
-      <td align="center">
-        <p style="font-size: 16px; font-weight: bold; color: #f8fafc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; margin-bottom: 15px;">
-          If you want to see more, you can visit my dynamic portfolio from here
-        </p>
-        <a href="https://mstf-ai.github.io" target="_blank">
-          <img src="https://shields.io" alt="Visit Portfolio Button" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+### If you want to see more, you can visit my dynamic portfolio from here
+
+[![Open My Portfolio](https://shields.io)](https://github.io)
+
 </div>
 
-<br />
 
 
 
